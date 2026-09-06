@@ -20,5 +20,3 @@ Welcome to my submission folder for **Activity 1**. This section contains my doc
 
 ### 🎥 Video Presentation
 <img width="3840" height="2160" alt="AClogo" src="https://github.com/user-attachments/assets/94240270-04ca-4efd-9c2e-9a4257d62121" />
-
-
