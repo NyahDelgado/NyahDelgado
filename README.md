@@ -1,4 +1,5 @@
-<img width="3780" height="1890" alt="prelim-banner" src="https://github.com/user-attachments/assets/834b2888-db27-4d7f-9832-aabffaad3458" />
+<img width="2172" height="724" alt="ChatGPT Image Sep 7, 2026, 07_46_48 PM" src="https://github.com/user-attachments/assets/c4a2ba14-646e-4a07-bb70-65b2feb19ef9" />
+
 <div align="center">
 
 <br>
