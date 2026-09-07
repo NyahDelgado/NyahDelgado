@@ -177,40 +177,6 @@ The final design communicates the coffee promotion quickly while creating a **wa
 
 ---
 
-## 🏆 Key Takeaway
-
-> ### ☕ Good design makes information clear, memorable, and engaging.
-
-The right combination of **design principles and creative choices** can transform simple information into an effective and professional visual communication piece.
-
----
-
-## 📂 Project Information
-
-| Category | Details |
-|---|---|
-| 📚 **Activity** | Activity 1 |
-| 🎨 **Focus** | Presentation Design Principles |
-| ☕ **Project** | Free Coffee Poster |
-| 📍 **Location** | Arrupe Hall — Booth 7 |
-| 📅 **Event Date** | August 4, 2026 |
-| 🎯 **Purpose** | Promotional / Visual Communication |
-
----
-
-## 🏷️ Topics
-
-`#Activity1` `#PresentationDesign` `#DesignPrinciples`  
-`#VisualHierarchy` `#ColorTheory` `#Typography`  
-`#GraphicDesign` `#VisualCommunication` `#CreativeDesign`  
-`#CoffeePoster` `#Portfolio`
-
----
-
-<p align="center">
-  ☕ <strong>Free Coffee • No Catch • Just Caffeine and Good Vibes</strong> ☕
-</p>
-
 <p align="center">
   ⭐ <em>Activity 1 — Presentation Design Principles</em> ⭐
 </p>
