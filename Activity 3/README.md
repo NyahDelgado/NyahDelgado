@@ -9,13 +9,11 @@
 
 <p align="center">
   <strong>💚 Speak Up · Reach Out · Support One Another 💚</strong>
-  <img width="400" height="1000" alt="Infographic_DELGADO (1)" 
+<img width="400" height="1000" alt="Infographic_DELGADO (1)" src="https://github.com/user-attachments/assets/e978552f-807e-4906-9eba-403422a811dd" />
+
 
 </p>
 
-<p align="center">
-  <img src="YOUR-IMAGE-LINK-HERE" alt="Mental Health Matters Infographic" width="500">
-</p>
 
 ---
 
