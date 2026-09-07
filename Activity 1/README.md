@@ -3,7 +3,7 @@
 <p align="center">
   <img src="assets/free-coffee-poster.png" alt="Free Coffee Poster" width="650">
 </p>
-
+<img width="1414" height="2000" alt="ACTIVITY 1 - GE 4120DELGADO - 1" src="https://github.com/user-attachments/assets/0146f46b-f9bb-4f36-a128-e3885cd329d2" />
 <p align="center">
   <strong>🎨 Applying Design Principles Through Creative Visual Communication</strong>
 </p>
