@@ -18,6 +18,8 @@
 
 The design focuses on communicating the **event title, location, date, and promotional message** while creating a warm, inviting, and visually appealing experience.
 
+<img width="1414" height="2000" alt="ACTIVITY 1 - GE 4120DELGADO - 1" src="https://github.com/user-attachments/assets/0a7995c3-32ec-4c72-90c3-37125a1af1a0" />
+
 > ☕ **Free Coffee, No Catch.**  
 > *Just Caffeine and Good Vibes.*
 
