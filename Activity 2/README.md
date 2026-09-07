@@ -17,7 +17,7 @@
 </p>
 
 ---
-![Uploading Untitled design.png…]()
+<img width="1414" height="2000" alt="Untitled design" src="https://github.com/user-attachments/assets/d23c378f-5c16-4748-b547-c3476d6bbea9" />
 
 ## 📌 Project Overview
 
