@@ -2,7 +2,6 @@
 
 <p align="center">
 
-"ACTIVITY 1 - GE 4120DELGADO - 1" 
   <strong>🎨 Applying Design Principles Through Creative Visual Communication</strong>
 </p>
 
