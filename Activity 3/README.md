@@ -1,4 +1,4 @@
-![Uploading ChatGPT Image Sep 7, 2026, 06_42_22 PM.png…]()
+#![Uploading ChatGPT Image Sep 7, 2026, 06_42_22 PM.png…]()
 
 # 🧠 Mental Health Matters
 
