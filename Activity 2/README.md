@@ -37,10 +37,6 @@ The visual direction is inspired by **nature, wellness, simplicity, and modern e
   <em>A clean, natural, elegant, and professional visual identity.</em>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Activity-02-1B5E3B?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-Brand%20Identity-A7C4A0?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Completed-2E2E2E?style=for-the-badge">
 </p>
 
 ---
