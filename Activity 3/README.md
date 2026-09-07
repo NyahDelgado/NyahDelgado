@@ -1,7 +1,7 @@
 # 🎨 The Importance of Presentation Design
 💡 “Good design makes information easier to understand, remember, and enjoy.”
 
-##⭐ Topics
+⭐ Topics
 
 Presentation Design Visual Communication Graphic Design Public Speaking Creativity Visual Design Communication
 ## 🌟 Overview
