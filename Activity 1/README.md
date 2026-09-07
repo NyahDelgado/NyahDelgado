@@ -1,9 +1,8 @@
-# ☕ Activity 1 — Presentation Design Principles
+<img width="1414" height="2000" alt="ACTIVITY 1 - GE 4120DELGADO - 1" src="https://github.com/user-attachments/assets/dd2a99d5-2dfd-4114-a2ea-b732b91dbd07" />
 
 <p align="center">
 
-<img width="1414" height="2000" alt="ACTIVITY 1 - GE 4120DELGADO - 1" src="https://github.com/user-attachments/assets/0146f46b-f9bb-4f36-a128-e3885cd329d2" />
-<p align="center">
+<img width="1414" height="2000" alt="ACTIVITY 1 - GE 4120DELGADO - 1" 
   <strong>🎨 Applying Design Principles Through Creative Visual Communication</strong>
 </p>
 
@@ -14,7 +13,8 @@
 </p>
 
 ---
-
+src="https://github.com/user-attachments/assets/0146f46b-f9bb-4f36-a128-e3885cd329d2" />
+<p align="center">
 ## 📌 Project Overview
 
 **Free Coffee — Arrupe Hall Booth 7** is a promotional poster designed to advertise a free coffee event.
