@@ -1,8 +1,6 @@
-<img width="2172" height="724" alt="ChatGPT Image Sep 7, 2026, 07_35_25 PM" src="https://github.com/user-attachments/assets/fddc2f62-a93f-498c-8c9e-254694110b75" /># 🎨 Activity 2 — Color Palette & Typography
+<img width="2172" height="724" alt="ChatGPT Image Sep 7, 2026, 07_35_25 PM" src="https://github.com/user-attachments/assets/fddc2f62-a93f-498c-8c9e-254694110b75" />
 
 <p align="center">
-  <img src="assets/natura-brand-identity.png" alt="NATURA Color Palette and Typography" width="750">
-</p>
 
 <p align="center">
   <strong>🌿 NATURA — LIVE SIMPLY</strong>
