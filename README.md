@@ -1,8 +1,6 @@
 <img width="3780" height="1890" alt="prelim-banner" src="https://github.com/user-attachments/assets/834b2888-db27-4d7f-9832-aabffaad3458" />
 <div align="center">
 
-<img src="assets/prelim-banner.jpeg" width="100%" alt="PRELIM EXAM COMPILATION">
-
 <br>
 
 # 💫 About Me:
