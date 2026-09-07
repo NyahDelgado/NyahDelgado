@@ -17,7 +17,6 @@
 </p>
 
 ---
-<img width="1414" height="2000" alt="Untitled design" src="https://github.com/user-attachments/assets/d23c378f-5c16-4748-b547-c3476d6bbea9" />
 
 ## 📌 Project Overview
 
@@ -49,7 +48,7 @@ The visual direction is inspired by **nature, wellness, simplicity, and modern e
 </p>
 
 ---
-
+<img width="1414" height="2000" alt="Untitled design" src="https://github.com/user-attachments/assets/d23c378f-5c16-4748-b547-c3476d6bbea9" />
 ## 📌 Project Overview
 
 **NATURA — Live Simply** is a visual identity concept developed for this activity.
