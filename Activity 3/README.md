@@ -1,3 +1,5 @@
+![Uploading ChatGPT Image Sep 7, 2026, 06_42_22 PM.png…]()
+
 # 🎨 The Importance of Presentation Design
 💡 “Good design makes information easier to understand, remember, and enjoy.”
 
