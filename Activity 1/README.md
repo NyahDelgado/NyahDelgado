@@ -1,4 +1,4 @@
-<img width="1414" height="2000" alt="ACTIVITY 1 - GE 4120DELGADO - 1" src="https://github.com/user-attachments/assets/dd2a99d5-2dfd-4114-a2ea-b732b91dbd07" />
+<img width="2172" height="724" alt="ChatGPT Image Sep 7, 2026, 07_12_04 PM" src="https://github.com/user-attachments/assets/1320dff7-fb53-4b82-ae93-a32342fdbf14" />
 
 <p align="center">
 
