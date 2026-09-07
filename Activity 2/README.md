@@ -23,23 +23,6 @@ The purpose of this project was to explore how **color and typography can work t
 The visual direction is inspired by **nature, wellness, simplicity, and modern elegance**.
 
 ---
-# 🎨 Activity 2 — Color Palette & Typography
-
-<p align="center">
-  <img src="assets/natura-brand-identity.png" alt="NATURA Color Palette and Typography" width="750">
-</p>
-
-<p align="center">
-  <strong>🌿 NATURA — LIVE SIMPLY</strong>
-</p>
-
-<p align="center">
-  <em>A clean, natural, elegant, and professional visual identity.</em>
-</p>
-
-</p>
-
----
 <img width="1414" height="2000" alt="Untitled design" src="https://github.com/user-attachments/assets/d23c378f-5c16-4748-b547-c3476d6bbea9" />
 ## 📌 Project Overview
 
