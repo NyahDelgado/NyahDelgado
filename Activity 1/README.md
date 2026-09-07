@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img width="1414" height="2000" alt="ACTIVITY 1 - GE 4120DELGADO - 1" 
+"ACTIVITY 1 - GE 4120DELGADO - 1" 
   <strong>🎨 Applying Design Principles Through Creative Visual Communication</strong>
 </p>
 
