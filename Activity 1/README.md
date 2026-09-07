@@ -1,6 +1,3 @@
-<img width="1414" height="2000" alt="ACTIVITY 1 - GE 4120DELGADO - 1" src="https://github.com/user-attachments/assets/0146f46b-f9bb-4f36-a128-e3885cd329d2" />
-
-
 # ☕ Activity 1 — Presentation Design Principles
 
 <p align="center">
