@@ -1,6 +1,3 @@
-<img src="YOUR-IMAGE-LINK-HERE" ...>![Uploading ChatGPT Image Sep 7, 2026, 06_42_22 PM.png…]()
-
-
 # 🧠 Mental Health Matters
 
 <p align="center">
