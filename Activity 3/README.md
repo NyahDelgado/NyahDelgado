@@ -1,8 +1,16 @@
+<p align="center">
+  <img width="2172" height="724" alt="ChatGPT Image Sep 7, 2026, 06_42_22 PM" src="https://github.com/user-attachments/assets/4ee9a585-6faa-4780-9eb6-82541f228a92" />
+
+  
+  
+</p>
 
 # 🧠 Mental Health Matters
 
 <p align="center">
-  <strong>💚 Speak Up • Reach Out • Support One Another 💚</strong>
+  <strong>💚 Speak Up · Reach Out · Support One Another 💚</strong>
+  <img width="400" height="1000" alt="Infographic_DELGADO (1)" src="https://github.com/user-attachments/assets/36234b93-1caa-442b-9e11-74874c3b4360" />
+
 </p>
 
 <p align="center">
