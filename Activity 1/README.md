@@ -12,8 +12,6 @@
 </p>
 
 ---
-src="https://github.com/user-attachments/assets/0146f46b-f9bb-4f36-a128-e3885cd329d2" />
-<p align="center">
 ## 📌 Project Overview
 
 **Free Coffee — Arrupe Hall Booth 7** is a promotional poster designed to advertise a free coffee event.
