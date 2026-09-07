@@ -9,7 +9,7 @@
 
 <p align="center">
   <strong>💚 Speak Up · Reach Out · Support One Another 💚</strong>
-  <img width="400" height="1000" alt="Infographic_DELGADO (1)" src="https://github.com/user-attachments/assets/36234b93-1caa-442b-9e11-74874c3b4360" />
+  <img width="400" height="1000" alt="Infographic_DELGADO (1)" 
 
 </p>
 
